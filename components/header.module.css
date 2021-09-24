@@ -1,0 +1,15 @@
+.header {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #DDD;
+    background-color: pink;
+}
+
+.link {
+    margin: 15px
+}
+
+.active {
+    margin: 15px;
+    color: blue
+}
